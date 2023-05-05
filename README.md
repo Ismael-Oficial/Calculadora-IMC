@@ -1,11 +1,36 @@
-# Calculadora IMC
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=09a730&height=120&section=header"/>
 
-É com muita alegria que venho compartilhar mais um projeto desenvolvido onde pude aperfeiçoar meus conhecimentos especificamente em JavaScript trabalhando com DOM.
+<div align="center">
+  <h1> Calculadora IMC </h1>
+</div>
 
-Neste projeto desenvolvi um programa simples que recebe dois valores digitados pelo usuário(peso e altura) e realiza um calculo do IMC, após realizar essa conta o programa retorna ao usuário o valor do IMC com uma mensagem:
+<div>
+  <p>
+    Olá Devs! É com muita felicidade que venho apresentar um projeto que desenvolvi em JavaScript: uma calculadora de Índice de Massa Corporal (IMC).
+  <p>
+</div>
 
-- IMC Baixo (abaixo de 17);
-- IMC Normal(entre 18 e 25);
-- IMC Alto (acima de 25);
+<div align="end">
+  <h2> Mas o que é IMC? </h2>
+</div>
 
-Também adicionei no canto lateral do conteúdo um botão onde ao clicar o usuário tem uma breve explicação de como funciona e o que é IMC.
+<div>
+  <p>O IMC é uma medida que relaciona o peso e a altura de uma pessoa, para determinar se ela está dentro da faixa de peso saudável. É um indicador importante para avaliar a saúde de uma pessoa e prevenir problemas de saúde relacionados ao peso, como diabetes e doenças cardiovasculares.</p>
+</div>
+
+<div align="start">
+  <h2> Sobre o Projeto </h2>
+</div>
+
+<div>
+  <p>Desenvolvi minha calculadora de modo onde seja fácil de usar e ofereça resultados bem próximos da precisão. Ela solicita ao usuário que insira sua altura e peso, e em seguida calcula o IMC. O resultado é exibido imediatamente na tela, juntamente com uma interpretação do IMC e uma indicação de se o usuário está dentro da faixa de peso saudável.</p>
+  
+  <p>O projeto foi desenvolvido em JavaScript, o que significa que ele é rápido, eficiente e funciona em todos os navegadores modernos. Se você está interessado em experimentá-la, pode acessá-la facilmente em qualquer navegador da web. Espero que ela seja útil para você!</p>
+</div>
+
+<div align="end">
+<img src="https://user-images.githubusercontent.com/125465461/236453806-ec99b3d8-7011-4308-8bda-e5b5606bf547.gif">
+<p><i> Visualize o projeto hospedado aqui: https://ismael-oficial.github.io/Calculadora-IMC/ </i></p> 
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=09a730&height=120&section=footer"/>
