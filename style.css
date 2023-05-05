@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #1d1d1d;
+    font-family: verdana;
+}
+
+.container {
+    background: #232323;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #FFF;
+    box-shadow: 2px 3px 0px #09a730;
+}
+
+.content {
+    margin: 2rem auto;
+}
+
+h1 {
+    text-align: center;
+    margin: 1rem;
+    text-transform: uppercase;
+}
+
+input {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+    padding: 1rem;
+    outline: 0;
+}
+
+input:focus {
+    border: 2px solid #09a730;
+}
+
+
+/* Esse comando esconde as setas do input Number */
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+button {
+    display: block;
+    width: 80%;
+    margin: 1rem auto;
+    padding: 1rem;
+    border: none;
+    background: #09a730;
+    text-transform: uppercase;
+}
+
+#resultado {
+    background: transparent;
+    color: #09a730;
+    text-align: center;
+    font-size: 24pt;
+}
+
+#resultado2 {
+    background: transparent;
+    color: #09a730;
+    text-align: center;
+    font-size: 18pt;
+}
+
+/* about */
+
+#card {
+    background: #09a730;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    font-weight: bold;
+    float: right;
+    margin: 20px;
+    cursor: pointer;
+}
+
+
+#information {
+    width: 500px;
+    background: #232323;
+    color: #FFF;
+    border: 1px solid #09a730;
+    padding: 1rem;
+    text-align: justify;
+    position: absolute;
+    top: 30%;
+    left: 63%;
+    display: none;
+}

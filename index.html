@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculadora IMC</title>
+</head>
+
+<body>
+    <div class="container">
+        <div id="card">
+            <p>?</p>
+        </div>
+        <div class="content">
+            <h1>Calcular IMC</h1>
+            <input type="number" id="peso" placeholder="Digite seu Peso Kg">
+            <br>
+            <input type="number" id="altura" placeholder="Digite sua Altura">
+        </div>
+        <div class="btn">
+            <button onclick="somar()">Calcular</button>
+            <p id="resultado"></p>
+            <p id="resultado2"></p>
+        </div>
+    </div>
+
+    <div id="information">
+        <p>O IMC é um cálculo simples que permite avaliar se a pessoa está dentro do peso que é considerado ideal para a
+            sua altura.</p>
+        <p>O IMC é considerado normal quando o valor está entre 18 kg e 25 kg.</p>
+    </div>
+
+    <script src="function.js"></script>
+</body>
+
+</html>
