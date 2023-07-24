@@ -16,7 +16,7 @@ function App() {
 
     kg = Number(kg);
     cm = Number(cm);
-    var imc = kg / (cm * cm);
+    var imc = parseInt(kg / (cm * cm));
 
     result.innerHTML = "IMC: " + imc.toFixed(2);
 
