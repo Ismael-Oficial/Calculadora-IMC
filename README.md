@@ -30,7 +30,7 @@
 
 <div align="end">
 <img src="https://user-images.githubusercontent.com/125465461/236453806-ec99b3d8-7011-4308-8bda-e5b5606bf547.gif">
-<p><i> Visualize o projeto hospedado aqui: https://ismael-oficial.github.io/Calculadora-IMC/ </i></p> 
+<p><i> Visualize o projeto hospedado aqui: https://calculadora-imc-puce-iota.vercel.app/ </i></p> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=09a730&height=120&section=footer"/>
